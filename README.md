@@ -1,2 +1,4 @@
-# StokMod_prosjekt1
-TMA4265 Stochastic Modelling Project 1 Fall2020
+# StochasticModeling
+Modelling expected insureance claims as Poisson process, measles outbreak as MArkov chain.
+
+Stochastic Modelling Project, Fall 2020
